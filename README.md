@@ -1,6 +1,6 @@
 # VueJS & Vuetify
 
-Chanllenge for desafio Latam, using VueJS and Vuetify. Data from json file.
+Challenge for desafio Latam, using VueJS and Vuetify. Data from json file.
 
 ## Project setup
 
